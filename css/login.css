@@ -1,0 +1,28 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #f2f7fa;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}
+
+.btn__edit{
+  margin-top: 1%;
+  background-color: rgb(50,205,50) !important;
+}
+
+.btn__edit_cancel{
+  margin-top: 1%;
+  background-color: rgb(255,0,0) !important;
+}
